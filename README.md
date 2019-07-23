@@ -1,6 +1,6 @@
 # microGEO-SIM
 
-μGEO-SIM - micro-geography of bacterial abundance and diversity across spatial scales. Code used to for spatially explicit simulations of bacterial cells moving and growing on hydrated soil surfaces.
+μGEO-SIM - micro-geography of bacterial abundance and diversity across spatial scales. Code used for spatially explicit simulations of bacterial cells moving and growing on hydrated soil surfaces.
 
 ---
 This repository accommodates computer code for the manuscript *Soil bacterial diversity shaped by microscale processes across biomes* submitted to Nature Communications.

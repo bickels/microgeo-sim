@@ -1,4 +1,5 @@
 #!/bin/sh
+# ipython <water content> <carrying capacity> <replicate id>
 ipython insilico.py 0.05 2.0 1&
 ipython insilico.py 0.10 2.0 1&
 ipython insilico.py 0.15 2.0 1&
