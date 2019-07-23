@@ -939,7 +939,7 @@ Spt[:,0] = np.histogram(cell_color,bins=Ninit,range=(0,Ninit-1))[0]
 poss0=poss
 
 verbose = False
-plot = True
+plot = False
 frame = 0
 timed = 0
 for t in time:
